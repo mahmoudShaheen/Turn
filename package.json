@@ -1,0 +1,27 @@
+{
+  "name": "turn",
+  "version": "1.0.0",
+  "description": "Node-TURN Server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahmoudShaheen/Turn.git"
+  },
+  "keywords": [
+    "node",
+    "turn",
+    "stun",
+    "server",
+    "rtc",
+    "webrtc"
+  ],
+  "author": "Mahmoud Shaheen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mahmoudShaheen/Turn/issues"
+  },
+  "homepage": "https://github.com/mahmoudShaheen/Turn#readme"
+}
