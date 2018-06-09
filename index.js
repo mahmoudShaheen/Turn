@@ -6,7 +6,7 @@ var server = new Turn({
   // set options
   authMech: 'none',
   debugLevel: 'ALL',
-  listeningIps: ['0.0.0.0']
+  listeningIps: ['0.0.0.0'],
   listeningPort: `${PORT}`
 });
 server.start();
