@@ -1,8 +1,6 @@
 var Turn = require('node-turn');
 const PORT = process.env.PORT;
-app.listen(PORT);
-console.log(PORT);
-console.log("hello");
+console.log("App Port: " + PORT);
 var server = new Turn({
   // set options
   authMech: 'none',
